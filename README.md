@@ -1,4 +1,3 @@
-warpcoil.github.io
-==================
+# My Personal Project Site
 
-warp.co.il.  The home of Robert Lockwood.
+@ [Warp Coil](http://www.warp.co.il "Home Page of Robert Lockwood")

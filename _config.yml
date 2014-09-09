@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Warp Coil
+tagline:          'Project Site of Robert Lockwood'
+description:      'Project Site of <a href="http://warp.co.il" target="_blank">Robert Lockwood</a> containing the jsix project and other stuff.'
+url:              http://www.warp.co.il
+baseurl:          'http://www.warp.co.il/'
+paginate:         5
+
+author:
+  name:           'Robert Lockwood'
+  url:            http://www.warp.co.il
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/warpcoil/warpcoil.github.io
