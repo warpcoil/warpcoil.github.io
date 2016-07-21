@@ -1,5 +1,6 @@
 = Curriculum Vitae
 :hp-tags: CV, Curriculum Vitae, Warp Coil, Bobby Lockwood
+
 ++++
 <!-- Editors Note:: This CV uses a lot of tables where there should be any, the engine conversion from Markdown to HTML is not very good and the CSS for this theme is worse (but great for Blogs)!!! -->
 <div style="text-align: center;">
