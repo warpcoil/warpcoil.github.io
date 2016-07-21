@@ -1,0 +1,175 @@
+= Curriculum Vitae
+:hp-tags: CV, Curriculum Vitae, Warp Coil, Bobby Lockwood
+[[bobby-lockwood]]
+Bobby Lockwood
+~~~~~~~~~~~~~~
+
+Bridge House
+
+Cockhill Road
+
+Buncrana
+
+County Donegal
+
+Republic of Ireland
+
+ 
+
+*+353 (0) 87 452 66 99*
+
+*Contact*
+
+[[personal-statement]]
+Personal Statement
+~~~~~~~~~~~~~~~~~~
+
+[cols="",]
+|=======================================================================
+|A Computer Science graduate who enjoys trying new things. Recently I
+managed to get WINE (emulator) to run inside the browser, more recently
+I've been active with DosBox on GitHub with its Web Port via Emscripten
+(which also runs small Microsoft® Windows™ applications).
+|=======================================================================
+
+[[education]]
+Education
+~~~~~~~~~
+
+2010-2014
+
+Ulster University, Derry, Northern Ireland
+
+*BSc Hons Computer Science - 2:1 Upper Second Class*
+
+Modules Included:
+
+Algorithms and Data Structures
+
+Human Computer Interaction
+
+Computer Networks & Operating Systems
+
+Internet Technologies
+
+Concurrent and Distributed Systems (Java)
+
+Object Oriented Modelling
+
+Object Oriented Programming (C++)
+
+Software Engineering
+
+ 
+
+2007-2009
+
+North West Regional College, Derry, Northern Ireland
+
+*Higher National Certificate in Computing - Typically Distinctive
+Profile*
+
+Modules Included:
+
+Computer Platforms
+
+Microsoft® Office™ Solutions Development
+
+Database Design Techniques
+
+Systems Analysis
+
+Database Development (SQL)
+
+Visual Programming (VB.NET)
+
+Information Systems
+
+Website Development
+
+[[work-experience]]
+Work Experience
+~~~~~~~~~~~~~~~
+
+2015-2015
+
+Sky Television / First Source Solutions Ltd
+
+*Technical Support Assistant*
+
+To assist Sky clients with their inbound queries relating to Sky
+Television services. Queries of this nature would include fault finding
+within Sky supplied equipment and problem resolution.
+
+ 
+
+2003-2015
+
+SuperValu / Kavanagh Group Ltd
+
+*Customer Services Assistant / Section Leader*
+
+As part of the shop floor team, it is my responsibility to ensure that
+customers’ needs are met at all times. As a section leader, ordering,
+replenishment and management of various areas are maintained to in-store
+targets.
+
+[[soft-skills]]
+Soft Skills
+~~~~~~~~~~~
+
+* Quick to learn new ideas and techniques.
+* First point of call for many for a variety of IT issues.
+* Excellent written and verbal skills.
+* As a hobby developer, experience of a huge variety of technologies
+such as web server maintenance with IIS/Nginx Reverse Proxy and Mail
+Server Management.
+
+[[technical-skills]]
+Technical Skills
+~~~~~~~~~~~~~~~~
+
+* Linux and Microsoft Windows Platforms experience as a developer and
+administrator.
+* Database Design and Development (SQL) and experience with MySQL™,
+Microsoft® Access™ and Microsoft® SQL Server™.
+* Awareness of a number of Unit Testing frameworks.
+* Conversant in a variety of programming languages including
+HTML5/JavaScript/CSS Level 3, C#, C/C++, Java, VB.NET and Assembler
+(prefers Intel Syntax although not a programming language per se).
+* Understands change management and issues that can arise as a
+consequence of +
+change.
+
+[[interests]]
+Interests
+~~~~~~~~~
+
+[cols="",]
+|=======================================================================
+|*Learning.* As a person with a very inquisitive mind, I enjoy
+investigating new things, +
+particularly in the fields of science, engineering and technology.
+
+| 
+
+|*Exercise.* A walk in a foreign land to the climbing of a small cliff
+is often on my agenda. +
+The countryside offers wonderful scenery in my area.
+
+| 
+
+|*Coding.* Coding (Programming) whilst essential to support modern
+businesses, it's also like an art form. I have actually developed an
+emulator that executes Microsoft Windows applications directly in the
+browser on any platform (using JavaScript) among other activities.
+|=======================================================================
+
+[[references]]
+References
+~~~~~~~~~~
+
+[cols="",]
+|====================================
+|References are available on request.
+|====================================
