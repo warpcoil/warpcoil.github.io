@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://warpcoil.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 21 Jul 2016 04:04:37 GMT</lastBuildDate><atom:link href="https://warpcoil.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Curriculum Vitae]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p><sub>~</sub><sub>~</sub><sub>~</sub><sub>~</sub>~~</p>
+</div>
+<div class="paragraph">
+<p>Bridge House</p>
+</div>
+<div class="paragraph">
+<p>Cockhill Road</p>
+</div>
+<div class="paragraph">
+<p>Buncrana</p>
+</div>
+<div class="paragraph">
+<p>County Donegal</p>
+</div>
+<div class="paragraph">
+<p>Republic of Ireland</p>
+</div>
+<div class="paragraph">
+<p><strong>+353 (0) 87 452 66 99</strong></p>
+</div>
+<div class="paragraph">
+<p><strong>Contact</strong></p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="personal-statement">Personal Statement</h3>
+<table class="tableblock frame-all grid-all spread">
+<colgroup>
+<col style="width: 100%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">A Computer Science graduate who enjoys trying new things. Recently I
+managed to get WINE (emulator) to run inside the browser, more recently
+I&#8217;ve been active with DosBox on GitHub with its Web Port via Emscripten
+(which also runs small Microsoft® Windows™ applications).</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="education">Education</h3>
+<div class="paragraph">
+<p>2010-2014</p>
+</div>
+<div class="paragraph">
+<p>Ulster University, Derry, Northern Ireland</p>
+</div>
+<div class="paragraph">
+<p><strong>BSc Hons Computer Science - 2:1 Upper Second Class</strong></p>
+</div>
+<div class="paragraph">
+<p>Modules Included:</p>
+</div>
+<div class="paragraph">
+<p>Algorithms and Data Structures</p>
+</div>
+<div class="paragraph">
+<p>Human Computer Interaction</p>
+</div>
+<div class="paragraph">
+<p>Computer Networks &amp; Operating Systems</p>
+</div>
+<div class="paragraph">
+<p>Internet Technologies</p>
+</div>
+<div class="paragraph">
+<p>Concurrent and Distributed Systems (Java)</p>
+</div>
+<div class="paragraph">
+<p>Object Oriented Modelling</p>
+</div>
+<div class="paragraph">
+<p>Object Oriented Programming (C++)</p>
+</div>
+<div class="paragraph">
+<p>Software Engineering</p>
+</div>
+<div class="paragraph">
+<p>2007-2009</p>
+</div>
+<div class="paragraph">
+<p>North West Regional College, Derry, Northern Ireland</p>
+</div>
+<div class="paragraph">
+<p><strong>Higher National Certificate in Computing - Typically Distinctive
+Profile</strong></p>
+</div>
+<div class="paragraph">
+<p>Modules Included:</p>
+</div>
+<div class="paragraph">
+<p>Computer Platforms</p>
+</div>
+<div class="paragraph">
+<p>Microsoft® Office™ Solutions Development</p>
+</div>
+<div class="paragraph">
+<p>Database Design Techniques</p>
+</div>
+<div class="paragraph">
+<p>Systems Analysis</p>
+</div>
+<div class="paragraph">
+<p>Database Development (SQL)</p>
+</div>
+<div class="paragraph">
+<p>Visual Programming (VB.NET)</p>
+</div>
+<div class="paragraph">
+<p>Information Systems</p>
+</div>
+<div class="paragraph">
+<p>Website Development</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="work-experience">Work Experience</h3>
+<div class="paragraph">
+<p>2015-2015</p>
+</div>
+<div class="paragraph">
+<p>Sky Television / First Source Solutions Ltd</p>
+</div>
+<div class="paragraph">
+<p><strong>Technical Support Assistant</strong></p>
+</div>
+<div class="paragraph">
+<p>To assist Sky clients with their inbound queries relating to Sky
+Television services. Queries of this nature would include fault finding
+within Sky supplied equipment and problem resolution.</p>
+</div>
+<div class="paragraph">
+<p>2003-2015</p>
+</div>
+<div class="paragraph">
+<p>SuperValu / Kavanagh Group Ltd</p>
+</div>
+<div class="paragraph">
+<p><strong>Customer Services Assistant / Section Leader</strong></p>
+</div>
+<div class="paragraph">
+<p>As part of the shop floor team, it is my responsibility to ensure that
+customers’ needs are met at all times. As a section leader, ordering,
+replenishment and management of various areas are maintained to in-store
+targets.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="soft-skills">Soft Skills</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Quick to learn new ideas and techniques.</p>
+</li>
+<li>
+<p>First point of call for many for a variety of IT issues.</p>
+</li>
+<li>
+<p>Excellent written and verbal skills.</p>
+</li>
+<li>
+<p>As a hobby developer, experience of a huge variety of technologies
+such as web server maintenance with IIS/Nginx Reverse Proxy and Mail
+Server Management.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="technical-skills">Technical Skills</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Linux and Microsoft Windows Platforms experience as a developer and
+administrator.</p>
+</li>
+<li>
+<p>Database Design and Development (SQL) and experience with MySQL™,
+Microsoft® Access™ and Microsoft® SQL Server™.</p>
+</li>
+<li>
+<p>Awareness of a number of Unit Testing frameworks.</p>
+</li>
+<li>
+<p>Conversant in a variety of programming languages including
+HTML5/JavaScript/CSS Level 3, C#, C/C++, Java, VB.NET and Assembler
+(prefers Intel Syntax although not a programming language per se).</p>
+</li>
+<li>
+<p>Understands change management and issues that can arise as a
+consequence of<br>
+change.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="interests">Interests</h3>
+<table class="tableblock frame-all grid-all spread">
+<colgroup>
+<col style="width: 100%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Learning.</strong> As a person with a very inquisitive mind, I enjoy
+investigating new things,<br>
+particularly in the fields of science, engineering and technology.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Exercise.</strong> A walk in a foreign land to the climbing of a small cliff
+is often on my agenda.<br>
+The countryside offers wonderful scenery in my area.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Coding.</strong> Coding (Programming) whilst essential to support modern
+businesses, it&#8217;s also like an art form. I have actually developed an
+emulator that executes Microsoft Windows applications directly in the
+browser on any platform (using JavaScript) among other activities.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="references">References</h3>
+<table class="tableblock frame-all grid-all spread">
+<colgroup>
+<col style="width: 100%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">References are available on request.</p></td>
+</tr>
+</tbody>
+</table>
+</div>]]></description><link>https://warpcoil.github.io/2016/07/21/Curriculum-Vitae.html</link><guid isPermaLink="true">https://warpcoil.github.io/2016/07/21/Curriculum-Vitae.html</guid><category><![CDATA[CV]]></category><category><![CDATA[ Curriculum Vitae]]></category><category><![CDATA[ Warp Coil]]></category><category><![CDATA[ Bobby Lockwood]]></category><dc:creator><![CDATA[Bobby Lockwood]]></dc:creator><pubDate>Thu, 21 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
